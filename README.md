@@ -3,9 +3,9 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/biostudio/ean13validator/main/imgs/ean13validator-logo.png"></p>
 
-<p align="center">EAN-13 Validador esta diseñada principalmente para verificar el dígito de verificación y generar una imagen del código de barras.
+<p align="center">EAN-13 Validador esta diseñada principalmente para verificar el dígito de verificación y generar una imagen del código de barras.</p>
 
-La aplicación para verificar el código de barras es muy fácil de usar, simplemente ingrese su código de barras EAN-13 (12 dígitos) y presione el botón de "Verificar" para poder ver la información del mismo, obtendrá el Dígito de Verificación (Resaltado en Rojo) y podrá copiar el mismo o compartirlo. También se generara el Código de Barras correspondiente a su código de barras EAN-13, el cual podrá compartir fácilmente.</p>
+<p align="center">La aplicación para verificar el código de barras es muy fácil de usar, simplemente ingrese su código de barras EAN-13 (12 dígitos) y presione el botón de "Verificar" para poder ver la información del mismo, obtendrá el Dígito de Verificación (Resaltado en Rojo) y podrá copiar el mismo o compartirlo. También se generara el Código de Barras correspondiente a su código de barras EAN-13, el cual podrá compartir fácilmente.</p>
 
 ## Screenshots
 
